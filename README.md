@@ -28,7 +28,3 @@ This project can be used as a beginner DevOps portfolio example.
 - Docker Compose
 - Git
 - Visual Studio Code
-
----
-
-## Project Structure
